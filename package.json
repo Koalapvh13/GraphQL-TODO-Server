@@ -1,0 +1,13 @@
+{
+  "name": "GraphQL-TODO-Server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Koalapvh13/GraphQL-TODO-Server.git",
+  "author": "Matheus Dias Vieira <matheuspvh13@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.10.0",
+    "graphql": "^14.6.0",
+    "mongoose": "^5.8.11"
+  }
+}
