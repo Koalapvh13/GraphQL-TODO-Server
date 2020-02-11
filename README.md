@@ -5,4 +5,4 @@ Implementação de uma API GraphQL em Node.js de um TODO App. Tutorial: https://
 - Apollo-server
 - Graphql
 - Mongoose
-- 
+- Dotenv (dev)
